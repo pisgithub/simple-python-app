@@ -1,0 +1,47 @@
+[
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "age = 25\nprint(name)\n# Indentation error: Inconsistent indentation\nif True:\nprint(\"This is indented incorrectly\")\n# ZeroDivisionError: Dividing by zero\nresult = 10 / 0\n# Type error: Mixing data types\nnum1 = \"10\"\nnum2 = 5",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "result = 10 / 0\n# Type error: Mixing data types\nnum1 = \"10\"\nnum2 = 5\nresult = num1 + num2",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "num1 = \"10\"\nnum2 = 5\nresult = num1 + num2",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "num2",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "num2 = 5\nresult = num1 + num2",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "result = num1 + num2",
+        "detail": "app",
+        "documentation": {}
+    }
+]
